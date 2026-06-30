@@ -1,0 +1,11 @@
+# Environments
+venv/
+env/
+__pycache__/
+
+# Large model files
+models/*.pt
+*.pth
+
+# OS generated files
+.DS_Store
